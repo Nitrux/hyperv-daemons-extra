@@ -1,0 +1,5 @@
+hyperv-daemons-extra (0.0.1)  nitrux; urgency=medium
+
+  * Create package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 04 Nov 2023 04:03:00 -0500
