@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 full_version=`uname -r`
 
 # First check for a fully qualified version.
